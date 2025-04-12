@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 hi its me Romina Arefkia:
 Im currently working on 💻: DBL Damavand Bioinnvation Laboratory web , Dev-Tech<br>Im learning 🌱 : React-Native , Django , windtail<br>fun fact im entp😄<br>ask me about frontend 💬
 
 
