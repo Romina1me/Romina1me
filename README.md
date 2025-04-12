@@ -1,4 +1,4 @@
-<div>Im currently working on 💻: DBL Damavand Bioinnvation Laboratory web , Dev-Tech  
+Im currently working on 💻: DBL Damavand Bioinnvation Laboratory web , Dev-Tech  
 
 Im learning 🌱 : React-Native , Django , windtail
   <h2>skills 🌟 :</h2>
