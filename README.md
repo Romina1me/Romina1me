@@ -1,3 +1,4 @@
+	$ bower install github.commits.widget
 # 💫 hi its me Romina Arefkia:
 Im currently working on 💻: DBL Damavand Bioinnvation Laboratory web ,BataCode<br>Im learning 🌱 : React-Native , Django , windtail<br>fun fact im entp😄<br>ask me about frontend 💬
 
