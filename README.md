@@ -1,6 +1,6 @@
 
 # 💫 hi its me Romina Arefkia:
-Im currently working on 💻: DBL Damavand Bioinnvation Laboratory web ,BataCode<br>Im learning 🌱 : React-Native , Django , windtail<br>fun fact im entp😄<br>ask me about frontend 💬
+Im currently working on 💻: DBL Damavand Bioinnvation Laboratory web ,BataCode<br>Im learning 🌱 : React-Native <br>fun fact im entp😄<br>ask me about front-end and back-end 💬
 
 
 ## 🌐 Socials:
