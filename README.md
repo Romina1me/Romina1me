@@ -1,5 +1,4 @@
 
-# 💫 hi its me Romina Arefkia:
 Im currently working on 💻: DBL Damavand Bioinnvation Laboratory web ,BataCode<br>Im fun fact im entp😄<br>ask me about front-end and back-end 💬
 
 
