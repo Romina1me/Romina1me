@@ -1,4 +1,4 @@
- fun fact im entp😄<br>ask me about front-end and back-end 💬
+ fun fact im intp😄<br>ask me about front-end and back-end 💬
 
 
 ## 🌐 Socials [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arefkyar@gmail.com) 
